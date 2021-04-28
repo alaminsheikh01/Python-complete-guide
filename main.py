@@ -1,5 +1,4 @@
+names = ["mango","apple","orange","cherry"]
 
-a = 5;
-print(a)
-#print(type(a))
-
+names.sort(reverse = True)
+print(names) 
